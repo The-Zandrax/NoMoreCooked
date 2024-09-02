@@ -15,4 +15,4 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         issue-number: ${{ github.event.issue.number }}
         body: |
-          Thank you for oppening this issue. I will get back to you as soon as i come back from my vacation (09/01). 
+          Thank you for oppening this issue. I will respond to your request as soon as I am available.
